@@ -1,5 +1,7 @@
 # 📋 Aboneliklerim
 
+[![CI](https://github.com/myozkaya/aboneliklerim/actions/workflows/ci.yml/badge.svg)](https://github.com/myozkaya/aboneliklerim/actions)
+
 Aboneliklerini terminalden takip eden basit bir CLI (komut satırı) uygulaması. Hangi servise ne kadar ödediğini, toplam aylık maliyetini ve bu ay hangi aboneliklerin yenileneceğini gösterir.
 
 > **Not:** Bu bir terminal uygulamasıdır — ikonu olan, çift tıklanarak açılan bir uygulama değildir. Terminal'den komutla çalıştırılır. Aşağıda adım adım anlatılıyor.
