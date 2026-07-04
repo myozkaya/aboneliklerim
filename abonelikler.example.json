@@ -1,0 +1,16 @@
+{
+  "abonelikler": [
+    {
+      "ad": "Netflix",
+      "fiyat": 229.99,
+      "periyot": "aylık",
+      "yenileme": "15.08.2026"
+    },
+    {
+      "ad": "Spotify",
+      "fiyat": 1199.88,
+      "periyot": "yıllık",
+      "yenileme": "01.03.2027"
+    }
+  ]
+}
